@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/Scripts/0_Extract_vcf_info.py;/Users/sushimin/PycharmProjects/Beth2/Scripts/1_get_sig.py;/Users/sushimin/PycharmProjects/Beth2/Scripts/2_evaluate_by_answer.py;/Users/sushimin/PycharmProjects/Beth2/Scripts/3_ER_PR_filtering.py" />
+  </component>
+</project>

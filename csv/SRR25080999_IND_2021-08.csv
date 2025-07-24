@@ -1,0 +1,16 @@
+Nucleo_Position,Ref,Alt,Protein,Depth,AF,AA,Variant_Type,NT_Change,Date,Country
+21618,C,G,S,21,1.0,T19R,missense_variant,56C>G,2021-08,India:Kerala
+21650,A,C,S,43,0.1860470026731491,N30H,missense_variant,88A>C,2021-08,India:Kerala
+21846,C,T,S,10,1.0,T95I,missense_variant,284C>T,2021-08,India:Kerala
+22335,G,T,S,161,0.9875779747962952,W258L,missense_variant,773G>T,2021-08,India:Kerala
+22813,G,T,S,823,0.9914950132369995,K417N,missense_variant,1251G>T,2021-08,India:Kerala
+22917,T,G,S,48,1.0,L452R,missense_variant,1355T>G,2021-08,India:Kerala
+22995,C,A,S,44,1.0,T478K,missense_variant,1433C>A,2021-08,India:Kerala
+23403,A,G,S,8933,0.9989929795265198,D614G,missense_variant,1841A>G,2021-08,India:Kerala
+23604,C,G,S,1520,1.0,P681R,missense_variant,2042C>G,2021-08,India:Kerala
+24135,T,G,S,4253,0.007054000161588192,L858R,missense_variant,2573T>G,2021-08,India:Kerala
+24410,G,A,S,3330,0.9681680202484131,D950N,missense_variant,2848G>A,2021-08,India:Kerala
+25202,T,G,S,3582,0.006142000202089548,W1214G,missense_variant,3640T>G,2021-08,India:Kerala
+25308,C,A,S,8378,0.00835500005632639,S1249Y,missense_variant,3746C>A,2021-08,India:Kerala
+25319,T,G,S,9693,0.008460000157356262,C1253G,missense_variant,3757T>G,2021-08,India:Kerala
+25336,A,C,S,10259,0.004776000045239925,E1258D,missense_variant,3774A>C,2021-08,India:Kerala

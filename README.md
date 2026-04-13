@@ -65,9 +65,14 @@ python Scripts/Evaluation.py \
  
 •	--p_value, --OR: Statistical thresholds
 
+## Reviewer Update
+
+A reviewer-facing update of BETH-2-predicted positive Spike mutations based on data available through February 2026 is provided in [`Output/reviewer_update_2026-02/`](./Output/reviewer_update_2026-02).
+
+
 ## Citation
 
 If you use Beth2 for your research, please cite:
 
-Su S, et al. Early detection of mutations with high fitness potential using within-host deep sequencing data of SARS-CoV-2 by a novel statistical framework. (Unpublished Manuscript, 2025)
+Su S, et al. Predicting Key Viral Mutations from Within-Host Deep Sequencing Data. (Unpublished Manuscript, 2026)
 

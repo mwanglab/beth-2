@@ -65,9 +65,9 @@ python Scripts/Evaluation.py \
  
 •	--p_value, --OR: Statistical thresholds
 
-## Reviewer Update
+## Update
 
-A reviewer-facing update of BETH-2-predicted positive Spike mutations based on data available through February 2026 is provided in [`Output/reviewer_update_2026-02/`](./Output/reviewer_update_2026-02).
+An update of BETH-2-predicted positive Spike mutations based on data available through February 2026 is provided in [`Output/reviewer_update_2026-02/`](./Output/reviewer_update_2026-02).
 
 
 ## Citation
